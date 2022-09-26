@@ -1,0 +1,18 @@
+tr th{
+    width: 20vw;
+    height: 5vh;
+}
+
+tbody tr td{
+    text-align: center;
+}
+
+table{
+    margin: 2vw;
+    border : 5px solid black;
+}
+
+button{
+    margin-left: 45%;
+    width: 10vw;
+}

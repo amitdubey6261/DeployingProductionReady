@@ -1,0 +1,12 @@
+form{
+    border: 5px solid black;
+    margin: 2vw;
+    display: flex;
+    flex-direction: column;
+}
+
+form button{
+    width: 10vw;
+    /* left: 45%; */
+    margin-bottom: 0.5%;
+}
